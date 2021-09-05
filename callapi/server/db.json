@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 6S",
+      "price": 500,
+      "status": true
+    },
+    {
+      "name": "samsung",
+      "price": "78",
+      "status": "true",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "Máy giặt",
+      "price": "135",
+      "status": true
+    }
+  ]
+}
